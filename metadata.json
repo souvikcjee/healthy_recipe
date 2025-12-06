@@ -1,0 +1,7 @@
+{
+  "name": "NutriSnap",
+  "description": "Smart health companion that identifies ingredients from photos and suggests personalized, healthy recipes based on your health profile using Google Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
